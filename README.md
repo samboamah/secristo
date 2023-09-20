@@ -38,9 +38,8 @@ Decrypt a folder:
 $ secristo decrypt /path/to/folder
 ```
 
-Note: When prompted, enter the encryption key. The same key should be used for encryption and decryption. 
-Make sure to store encryption keys very safely. 
 
-Caution: The encryption key entered will not be diplayed on the interface. 
+Note: When prompted, enter the encryption key. The same key should be used for encryption and decryption. 
+Make sure to store encryption keys very safely. Encryption key entered will not be diplayed on the interface. 
 
 Author: [Samuel Boamah](https://github.com/samboamah)
