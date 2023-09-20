@@ -1,6 +1,6 @@
 # secristo
 
-A Python CLI package that provides functionality to encrypt and decrypt files or folders using symmetric encryption.
+A Python CLI package that provides functionality to encrypt and decrypt files or folders using [symmetric encryption](https://www.sciencedirect.com/topics/computer-science/symmetric-encryption#:~:text=Symmetric%20encryption%20uses%20a%20single,kept%20secret%20from%20third%20parties.).
 
 ## Features
 
