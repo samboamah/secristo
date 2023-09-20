@@ -6,7 +6,7 @@ A Python CLI package that provides functionality to encrypt and decrypt files or
 
 - Encrypt a file or folder
 - Decrypt a file or folder
-- Uses the Fernet encryption algorithm from the `cryptography` library in Python
+- Uses the [Fernet](https://www.comparitech.com/blog/information-security/what-is-fernet/) encryption algorithm from the [`cryptography`](https://pypi.org/project/cryptography/) library in Python
 
 ## Installation
 
@@ -42,3 +42,5 @@ Note: When prompted, enter the encryption key. The same key should be used for e
 Make sure to store encryption keys very safely. 
 
 Caution: The encryption key entered will not be diplayed on the interface. 
+
+Author: [Samuel Boamah](https://github.com/samboamah)
